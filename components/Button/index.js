@@ -16,7 +16,7 @@ const Button = ({ children, type, onClick, classes }) => {
         }  ${classes}`}
       >
         {children}
-      </button>
+      </button> 
     );
   }
   return (
